@@ -1,4 +1,4 @@
 # RL-Bandit
 
 Implementation of the Upper Confidence Bound Section from "Introduction to RL" by Sutton & Barto.
-Might contain errors, this was just me playing around and trying different approaches.
+Just playing around and trying different approaches.
